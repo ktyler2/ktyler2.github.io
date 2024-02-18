@@ -9,3 +9,7 @@ This is where I'll build my personal website and experiment with web development
 ## About This Repository
 
 This repository holds my personal website hosted on GitHub Pages.  Right now, it's a starting point, but I plan to develop it into a portfolio and a space to practice my web development skills.
+
+##Setup
+
+I used GitHub Desktop to clone this repository onto my local machine.
